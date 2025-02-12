@@ -1,1 +1,1 @@
-# <summary><strong>Hi there :wave: , I'm Aldi Ramdani!</strong></summary>
+# <summary><strong>Hello , I'm Aldi Ramdani! :wave:</strong></summary>
