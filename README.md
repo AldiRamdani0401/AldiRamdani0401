@@ -13,7 +13,6 @@ I'm a tech enthusiast from Karawang, Indonesia, currently studying **Informatics
 - **Other:** REST API, OOP, MVC, Postman
 
 ### 🌱 Current Projects
-- Developing **SPP Payment System** for MI Bina Qur'ani
 - Building a **Project Assessment Platform** for admins, mentors, and students
 
 ### 📫 Let's Connect!
