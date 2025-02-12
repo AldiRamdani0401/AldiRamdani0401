@@ -6,7 +6,7 @@ I'm a tech enthusiast from Karawang, Indonesia, currently studying **Informatics
 
 ### 🔥 Tech Stack
 - **Languages:** JavaScript, TypeScript, PHP, Go
-- **Frontend:** React, SolidJS, React, ReefJS, Tailwind CSS, Astro, Next, Laravel
+- **Frontend:** React, SolidJS, React, ReefJS, Tailwind CSS, Bootstrap, Bulma, Astro, Next, Laravel
 - **Backend:** Node.js, Express.js, Nest, Gin, Fastify, Laravel
 - **Databases:** MySQL, PostgreSQL, MongoDB, Supabase
 - **DevOps:** Docker, Kubernetes, Google Cloud
