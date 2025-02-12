@@ -1,6 +1,6 @@
 ### Hello! 👋 I'm Aldi Ramdani
 
-🚀 **Fullstack Developer | Passionate about Web**
+🚀 **Fullstack Developer | Passionate about Web, Mobile, IoT, and Machine Learning**
 
 I'm a tech enthusiast from Karawang, Indonesia, currently studying **Informatics Engineering at STTI Sony Sugema**. I love building scalable applications and exploring new technologies.
 
@@ -18,7 +18,7 @@ I'm a tech enthusiast from Karawang, Indonesia, currently studying **Informatics
   ( which is my final project for my college program ) [Demo](ramdanialdi889@gmail.com)
 
 ### 📫 Let's Connect!
-- 🌐 [my portfolio web](https://aldiramdani.vercel.app/)
+- 🌐 [My Portfolio Web](https://aldiramdani.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/aldiramdani)
 - 📧 **Email :** ramdanialdi889@gmail.com
   
