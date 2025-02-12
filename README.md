@@ -1,6 +1,6 @@
 ### Hello! 👋 I'm Aldi Ramdani
 
-🚀 **Fullstack Developer | Passionate about Web, Mobile, ML, and IoT**
+🚀 **Fullstack Developer | Passionate about Web**
 
 I'm a tech enthusiast from Karawang, Indonesia, currently studying **Informatics Engineering at STTI Sony Sugema**. I love building scalable applications and exploring new technologies.
 
