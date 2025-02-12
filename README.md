@@ -19,7 +19,7 @@ I'm a tech enthusiast from Karawang, Indonesia, currently studying **Informatics
 
 ### 📫 Let's Connect!
 - 🌐 **My Portfolio Web** : [See](https://aldiramdani.vercel.app/)
-- 💼 **LinkedIn :** [Aldi Ramdani](https://linkedin.com/in/aldiramdani)
+- 💼 **LinkedIn :** [Aldi Ramdani](https://www.linkedin.com/in/aldi-ramdani/)
 - 📧 **Email :** ramdanialdi889@gmail.com
   
 💻 **“Code. Create. Innovate.”** 🚀
