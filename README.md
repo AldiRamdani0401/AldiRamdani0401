@@ -13,7 +13,7 @@ I'm a tech enthusiast from Karawang, Indonesia, currently studying **Informatics
 - **Other:** REST API, OOP, MVC, Postman
 
 ### 🌱 Current Projects
-- Building a **Project Assessment Platform** for admins, mentors, and students
+- I am currently developing a web-based application called **CBT STTI SONY SUGEMA**, which is my final project for my college program.
 
 ### 📫 Let's Connect!
 - 🌐 [my portfolio web](https://aldiramdani.vercel.app/)
