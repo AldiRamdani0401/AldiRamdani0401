@@ -15,7 +15,7 @@ I'm a tech enthusiast from Karawang, West Java, Indonesia, currently studying **
 ### 🌱 Current Projects
 - I am currently developing a web-based application called **CBT STTI SONY SUGEMA**.
   
-  ( which is my final project for my college program ) [Demo](ramdanialdi889@gmail.com)
+  ( which is my final project for my college program ) [Demo](https://cbt-stti-sony-sugema.vercel.app/)
 
 ### 📫 Let's Connect!
 - 🌐 **My Portfolio Web** : [See](https://aldiramdani.vercel.app/)
