@@ -17,7 +17,8 @@ I'm a tech enthusiast from Karawang, Indonesia, currently studying **Informatics
 - Building a **Project Assessment Platform** for admins, mentors, and students
 
 ### 📫 Let's Connect!
-- 🌐 [aldirndn.dev](https://aldiramdani.vercel.app/)
+- 🌐 [my portfolio web](https://aldiramdani.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/aldiramdani)
 - 📧 [Email](ramdanialdi889@gmail.com)
+- 
 💻 **“Code. Create. Innovate.”** 🚀
