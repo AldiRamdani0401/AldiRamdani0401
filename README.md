@@ -1,6 +1,6 @@
 ### Hello! 👋 I'm Aldi Ramdani
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=A+Full+Stack+Developer;A+MERN+Stack+Developer;A+React+JS+Developer;)](https://git.io/typing-svg)
+🚀 **Fullstack Developer | Passionate about Web, Mobile, ML, and IoT**
 
 I'm a tech enthusiast from Karawang, Indonesia, currently studying **Informatics Engineering at STTI Sony Sugema**. I love building scalable applications and exploring new technologies.
 
