@@ -8,7 +8,7 @@ I'm a tech enthusiast from Karawang, West Java, Indonesia, currently studying **
 - **Languages:** JavaScript, TypeScript, PHP, Go
 - **Frontend:** React, SolidJS, ReefJS, Tailwind CSS, Bootstrap, Bulma, Astro, Next, Laravel
 - **Backend:** Node.js, Express.js, Fastify, Nest, Gin, Fastify, Laravel
-- **Databases:** MySQL, PostgreSQL, MongoDB, Supabase
+- **Databases:** MySQL, PostgreSQL, MongoDB, Supabase, Redis
 - **DevOps:** Docker, Kubernetes, Google Cloud
 - **Other:** REST API, OOP, MVC, Postman
 
