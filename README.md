@@ -5,9 +5,9 @@
 I'm a tech enthusiast from Karawang, West Java, Indonesia, currently studying **Informatics Engineering at STTI Sony Sugema**. I love building scalable applications and exploring new technologies.
 
 ### 🔥 Tech Stack
-- **Languages:** JavaScript, TypeScript, PHP, Go
-- **Frontend:** React, SolidJS, ReefJS, Tailwind CSS, Bootstrap, Bulma, Astro, Next, Laravel
-- **Backend:** Node.js, Express.js, Fastify, Nest, Gin, Fastify, Laravel
+- **Languages:** JavaScript, TypeScript, Go
+- **Frontend:** React, SolidJS, ReefJS, Tailwind CSS, Bootstrap, Bulma, Astro, Next
+- **Backend:** Node.js, Express.js, Fastify, Nest, Gin, Fastify
 - **Databases:** MySQL, PostgreSQL, MongoDB, Supabase, Redis
 - **DevOps:** Docker, Kubernetes, Google Cloud
 - **Other:** REST API, OOP, MVC, Postman
